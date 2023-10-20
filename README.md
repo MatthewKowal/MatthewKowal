@@ -1,8 +1,12 @@
 ### Hi there 👋
 My name is Matthew Kowal.
-I am a PhD Candidate and researcher in the Chemistry Department of the University of British Columbia in Vancouver. My current research interests are centered around computational optical microscopy for the visualization of single particles far below the diffraction limit. My goal is to build automated systems to facilitate the detection of nanoplastics.
+I am a PhD Candidate and researcher in the Chemistry Department of the University of British Columbia in Vancouver. My research interests are centered around computational optical microscopy for the visualization of single particles far below the diffraction limit. I am applying these interests to build automated systems for the detection of nanoplastics, biomolecules and the dynamics of their interactions. If you're interested in the details you can read my published works on [Google Scholar](https://scholar.google.com/citations?user=gWwZVDwAAAAJ&hl=en&oi=sra).
 
-Have a look at my published articles on my [Google Scholar](https://scholar.google.com/citations?user=gWwZVDwAAAAJ&hl=en&oi=sra) profile.
+#### Here is some of the work that will appear in my thesis:
+- Microplastic characterization by Raman spectroscopy can be found in the mp-classifier respository.
+- A Deep Learning approach to sub-wavelength particle detection and characterization using iSCAT microscopy 
+
+
 
 
 <!--
